@@ -1,9 +1,38 @@
-# Medical-Chatbot-using-Bert-and-GPT2
+# Fruits🍍-Vegetable🍅 Classification
 
-In this repository, I have shown how we can use BioBert and GPT-2 to generate answer to the medical questions asked by a patient. 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-It also involves retrieving previously answered question-answer pairs that are similar to the given patient question. 
+## [Watch Tutorial for this project](https://youtu.be/cF6rMXZcuCs)
+<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/yt_thumb.jpg">
 
-Please refer to sample_input_output4.PNG image for sample input and output.
+## Usage:-
 
-Please go through the blog https://suniljammalamadaka.medium.com/medical-chatbot-using-bert-and-gpt2-62f0c973162f to know more.
+- Clone my repository.
+- Open CMD in working directory.
+- Run following command.
+
+  ```
+  pip install -r requirements.txt
+  ```
+- `Fruits_Vegetable_Classification.py` is the main Python file of Streamlit Web-Application. 
+- `Fruit_Veg_Classification_Mobilenet.ipynb` is the Notebook file of the Training
+- Dataset that I have used is [Fruit and Vegetable Image Recognition](https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition).
+- To run app, write following command in CMD. or use any IDE.
+
+  ```
+  streamlit run Fruits_Vegetable_Classification.py
+  ```
+
+- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
+
+## Screenshots
+
+<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/sc1.PNG">
+<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/sc2.PNG">
+
+
+## Just follow☝️ me and Star⭐ my repository 
+
+# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
+## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
